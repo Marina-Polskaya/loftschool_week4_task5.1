@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {"Base\\": "src/"}
+    },
+    "require": {
+        "swiftmailer/swiftmailer": "^6.0"
+    }
+}
